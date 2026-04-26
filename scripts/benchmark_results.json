@@ -1,0 +1,19 @@
+{
+  "n_games": 200,
+  "total_turns": 4682,
+  "win_rate": 0.46,
+  "wins": 92,
+  "schema_compliance_rate": 1.0,
+  "fallback_turns": 0,
+  "avg_turn_latency_ms": 1.773,
+  "p95_latency_ms": 2.019,
+  "p99_latency_ms": 3.283,
+  "avg_turns_per_game": 23.41,
+  "enemy_clear_rate": 0.4333,
+  "action_distribution": {
+    "MOVE": 3309,
+    "ATTACK": 1279,
+    "HEAL": 94
+  },
+  "wall_time_seconds": 8.38
+}

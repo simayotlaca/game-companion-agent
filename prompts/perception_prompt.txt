@@ -1,0 +1,9 @@
+Describe what you see in this game screenshot.
+The game is a tactical grid game. Identify:
+1. Player position and health
+2. Enemy positions, health, and proximity to player
+3. Health pack locations
+4. Goal location
+5. Immediate threats or opportunities
+
+Be concise and structured. Use coordinates (x,y) when possible.

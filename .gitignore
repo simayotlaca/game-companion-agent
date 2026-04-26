@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+screenshots/
+final_state.png
+*.gif
+!assets/gameplay.gif
+*.png
+!assets/*.png
+*.pt
+*.bin
+.venv/
+venv/
